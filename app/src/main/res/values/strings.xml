@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Мои Растения</string>
+    <string name="login">Войти</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="some_error">Что-то пошло не так</string>
+    <string name="e_mail">Электронная почта</string>
+
+    <string name="title_activity_main">Главная активность</string>
+    <string name="navigation_drawer_open">Открыть навигационное меню</string>
+    <string name="navigation_drawer_close">Закрыть навигационное меню</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Заголовок навигационного меню</string>
+    <string name="action_settings">Настройки</string>
+    <string name="open_navigation_drawer">Открыть навигационное меню</string>
+    <string name="close_navigation_drawer">Закрыть навигационное меню</string>
+
+    <string name="my_plants">Мои растения</string>
+    <string name="discover_plants">Открыть растения</string>
+    <string name="suggest_new_plant">Предложить новое растение</string>
+
+    <string name="logout">Выйти</string>
+    <string name="settings">Настройки</string>
+    <string name="search">Поиск</string>
+    <string name="common_name">Общее название</string>
+    <string name="choose_plant_photo">Сделать или выбрать новое фото растения.</string>
+    <string name="latin_name">Латинское название (необязательно)</string>
+    <string name="add_to_my_plants">Добавить в мои растения</string>
+    <string name="description">Описание</string>
+    <string name="name">Имя</string>
+    <string name="type">Тип</string>
+    <string name="message_need_permission">Необходимы разрешения</string>
+    <string name="message_grant_permission">Предоставьте разрешение</string>
+    <string name="label_setting">Настройки</string>
+
+    <string name="never">Никогда</string>
+    <string name="one_day">1 день</string>
+    <string name="days">%1$d дней</string>
+    <string name="months">%1$d месяцев</string>
+
+    <string name="fertilizing">Удобрение</string>
+    <string name="no_plants_added">
+    Растений не добавлено.\n
+    Чтобы добавить новое растение, перейдите в "Добавить растение."</string>
+    <string name="adding_new_plant">Новое растение</string>
+    <string name="reset_password">Сбросить пароль</string>
+    <string name="add_to_your_plants">Добавить в ваши растения</string>
+    <string name="spraying">Опрыскивание</string>
+    <string name="watering">Полив</string>
+    <string name="spraying_frequency">Частота опрыскивания</string>
+    <string name="watering_frequency">Частота полива</string>
+    <string name="fertilizing_frequency">Частота удобрения</string>
+    <string name="ask_a_question">Задать вопрос</string>
+    <string name="none">---</string>
+    <string name="ask_question">Задать вопрос</string>
+    <string name="question">Ваш вопрос</string>
+    <string name="add_your_solution_here">Добавьте ваше решение здесь</string>
+    <string name="name_your_plant">Назовите ваше растение</string>
+    <string name="customize_frequency">Настроить частоту</string>
+    <string name="choose_a_name_and_a_photo">Выберите имя и фото</string>
+
+    <string name="advices">Советы</string>
+
+    <string name="set_plant_requirements">Установите требования для растения</string>
+    <string name="advice">Совет</string>
+
+    <string name="add">Добавить</string>
+    <string name="submit">Отправить</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="requirements">Требования</string>
+    <string name="general_information">Общая информация</string>
+
+    <string name="add_plant">Добавить растение</string>
+    <string name="discover">Открыть</string>
+    <string name="delete_plant">Удалить растение</string>
+    <string name="delete_plant_question">Вы уверены, что хотите удалить это растение?</string>
+
+    <string name="notification_channel_name">Уведомления о растениях</string>
+    <string name="notification_channel_description">Уведомления о потребностях растений</string>
+    <string name="plant_notification_title">Растение требует ухода</string>
+    <string name="plant_notification_message">%1$s, вероятно, нуждается в уходе.</string>
+    <string name="db_plant_added">Растение было добавлено</string>
+    <string name="this_field_cant_be_empty">Это поле не может быть пустым.</string>
+    <string name="email_sent">Письмо отправлено.</string>
+    <string name="email_not_valid">Это недействительный email.</string>
+    <string name="logged_successfully">Пользователь успешно вошел</string>
+    <string name="plant_delete_success">Растение успешно удалено</string>
+    <string name="register_success">Пользователь успешно зарегистрирован</string>
+    <string name="permissions_denied">Разрешения отклонены</string>
+    <string name="choose_photo">Выбрать фото растения</string>
+
+    <string-array name="categories">
+        <item>@string/leaf_plants</item>
+        <item>@string/flowers</item>
+        <item>@string/succulents</item>
+    </string-array>
+
+    <string name="leaf_plants">Листовые растения</string>
+    <string name="flowers">Цветы</string>
+    <string name="succulents">Суккуленты</string>
+
+    <string-array name="photo_options">
+        <item>@string/take_photo</item>
+        <item>@string/gallery</item>
+        <item>@string/cancel</item>
+    </string-array>
+
+    <string name="take_photo">Сделать фото</string>
+    <string name="gallery">Выбрать из галереи</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="password_too_short">Пароль слишком короткий! Минимум 6 символов.</string>
+    <string name="passwords_didnt_match">Пароли не совпадают</string>
+    <string name="connection_error">Ошибка подключения! \nПроверьте настройки сети.</string>
+    <string name="refresh">Обновить</string>
+
+
+</resources>

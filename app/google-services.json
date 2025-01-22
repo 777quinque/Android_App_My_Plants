@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "350622203669",
+    "firebase_url": "https://getupplants-default-rtdb.firebaseio.com",
+    "project_id": "getupplants",
+    "storage_bucket": "getupplants.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350622203669:android:e792c82b39765f180eb31c",
+        "android_client_info": {
+          "package_name": "app.rifa.plantcareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFYhmKHg9QyMOG-glAXFV464eMgQZjJUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
